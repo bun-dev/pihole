@@ -2,3 +2,6 @@
 0.0.0.0 hsrvu.com
 0.0.0.0 sffsdvc.com
 0.0.0.0 buymyshit.moneygrubbingwhore.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 help.twitter.com
+0.0.0.0 syndication.twitter.com
