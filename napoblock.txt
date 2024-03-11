@@ -1,7 +1,30 @@
-0.0.0.0 m.hsrvu.com
-0.0.0.0 hsrvu.com
-0.0.0.0 sffsdvc.com
-0.0.0.0 buymyshit.moneygrubbingwhore.com
-0.0.0.0 cdn.cms-twdigitalassets.com
-0.0.0.0 help.twitter.com
-0.0.0.0 syndication.twitter.com
+||m.hsrvu.com^
+||hsrvu.com^
+||sffsdvc.com^
+||buymyshit.moneygrubbingwhore.com^
+||cdn.cms-twdigitalassets.com^
+||help.twitter.com^
+||syndication.twitter.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||an.facebook.com^
+||pixel.facebook.com^
+||ads-api.twitter.com^
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+||events.reddit.com^
+||ads.pinterest.com^
+||log.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||widgets.pinterest.com^
+||ads.youtube.com^
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||log.byteoversea.com^
